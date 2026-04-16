@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mahakgoyalcs27-arch/leetcode/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mahakgoyalcs27-arch/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1512-number-of-good-pairs](https://github.com/mahakgoyalcs27-arch/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mahakgoyalcs27-arch/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/mahakgoyalcs27-arch/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mahakgoyalcs27-arch/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mahakgoyalcs27-arch/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
